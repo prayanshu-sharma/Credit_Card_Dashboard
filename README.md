@@ -9,6 +9,16 @@ Tool- Microsoft Power-BI
 
 Database-MySQL
 
+# Steps
+import  data in mysql
+connecting powerbi to database
+data cleaning
+data preprocessing 
+data modeling
+data visulization
+creating dashboard
+
+
 # Objective -
 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends,enabling stakeholders to monitor and analyze credit card operations effectively.
